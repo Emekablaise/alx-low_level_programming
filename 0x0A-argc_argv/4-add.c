@@ -38,7 +38,9 @@ int check_num(char *str)
  */
 
 int main(int argc, char *argv[])
+
 {
+
 	/*Declaring variables*/
 	int count;
 	int str_to_int;
